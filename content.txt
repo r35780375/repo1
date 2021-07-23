@@ -3,3 +3,4 @@ existing content line 1
 
 The farther you are the smaller you look
 The best part is not a part of it
+last line
